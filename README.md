@@ -7,9 +7,7 @@ An end-to-end data science and machine learning solution designed to monitor mec
 ## 🚀 Live Production Links & References
 
 * **Live Streamlit Web Application:** [Click Here to View Live Dashboard](https://predictive-maintenance-ml-hminumxwwprhfguue9vdyd.streamlit.app/)
-* **Cloud Hosted API Endpoint:** `https://us-south.ml.cloud.ibm.com/v4/deployments/019e639a-597f-72a9-bc52-d9c41ca44fb9/predictions?version=2021-05-01`
-* **IBM Project Workspace ID:** `df5dc3ef-ea32-425c-ae5e-c35cffdd03f`
-* **Model Asset ID Registry:** `019e6397-3ca2-770d-afbb-c9aba82a0a52`
+* **Cloud Hosted API Endpoint:** Deployed via IBM Watson Machine Learning (endpoint available on request / stored in `.env`)
 
 > **🔒 Security Note:** In alignment with cloud security best practices, sensitive authentication vectors (such as individual IBM Cloud master API Keys) are explicitly omitted from this documentation and isolated via environment variables. The asset identifiers listed above serve purely as structural routing references.
 
